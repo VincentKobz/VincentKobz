@@ -2,6 +2,9 @@
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/vincent-libeskind/)
 
+<code>
+    <a href="https://www.linkedin.com/in/vincent-libeskind/" title="LinkedIn"><img width="22" src="https://culliganrecrute.fr/wp-content/uploads/2018/01/linkedin-icon-1200x1200.png"> LinkedIn</a></code>
+
 - 🔭  I am looking for a 4 / 5 month internship in computer development starting in august / september 2021.
 
 - 👨‍💻 All of my projects are available at [https://www.vincentlibeskind.com/](https://www.vincentlibeskind.com/)
