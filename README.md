@@ -14,15 +14,12 @@
 <div> <h3 align="left">Languages and Tools:</h3> </div>
 
 <div align="center">
-    <code> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" height="40"/> </code>
-    <code> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" height="40" /> </code>
-    <code> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" height="40"/> </code>
-    <code> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" height="40"/> </code>
-    <code> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" height="40"/> </code>
-    <code> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" height="40"/> </code>
-    <code> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="40"/> </code>
-    <code> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" height="40"/> </code>
-    <code> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" height="40"/> </code>
+    <code> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bash.svg" alt="bash" height="40"/> </code>
+    <code> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" alt="bash" height="40"/> </code>
+    <code> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" alt="bash" height="40"/> </code>
+    <code> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/go.svg" alt="bash" height="40"/> </code>
+    <code> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" alt="bash" height="40"/> </code>
+    <code> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" alt="bash" height="40"/> </code>
 </div>
     
 <br>
