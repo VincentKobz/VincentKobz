@@ -17,3 +17,6 @@
     <code><img height="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg"></code>
     <code><img height="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/go.svg"></code>
 </div>
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vincentkobz&show_icons=true&theme=merko&title_color=9141ac&locale=en" alt="vincentkobz" /></p>
