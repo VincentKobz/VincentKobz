@@ -19,4 +19,4 @@
 </div>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vincentkobz&show_icons=true&theme=merko&title_color=9141ac&locale=en" alt="vincentkobz" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vincentkobz&show_icons=true&theme=merko&title_color=9141ac&locale=en" alt="vincentkobz" /></p>
