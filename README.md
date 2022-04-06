@@ -7,9 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [https://www.vincentlibeskind.com/](https://www.vincentlibeskind.com/)
 
-
-
-<div align="center">
     
 <div> <h3 align="left">Languages and Tools:</h3> </div>
 
