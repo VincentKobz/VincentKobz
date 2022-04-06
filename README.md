@@ -8,7 +8,7 @@
 - 👨‍💻 All of my projects are available at [https://www.vincentlibeskind.com/](https://www.vincentlibeskind.com/)
 
     
-<div> <h3 align="left">Languages and Tools:</h3> </div>
+<h3 align="left">Languages and Tools:</h3>
 
 <div>
     <code><img height="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bash.svg"></code>
