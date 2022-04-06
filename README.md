@@ -13,13 +13,13 @@
     
 <div> <h3 align="left">Languages and Tools:</h3> </div>
 
-<div align="center">
-    <code> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bash.svg" alt="bash" height="40"/> </code>
-    <code> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" alt="bash" height="40"/> </code>
-    <code> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" alt="bash" height="40"/> </code>
-    <code> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/go.svg" alt="bash" height="40"/> </code>
-    <code> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" alt="bash" height="40"/> </code>
-    <code> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" alt="bash" height="40"/> </code>
+<div>
+    <code> <img height="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bash.svg" alt="bash" /> </code>
+    <code> <img height="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" alt="bash" /> </code>
+    <code> <img height="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" alt="bash" /> </code>
+    <code> <img height="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/go.svg" alt="bash" /> </code>
+    <code> <img height="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" alt="bash" /> </code>
+    <code> <img height="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" alt="bash" /> </code>
 </div>
     
 <div>
