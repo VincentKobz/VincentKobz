@@ -20,6 +20,7 @@
     <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"></code>
     <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg"></code>
     <code><img height="40" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"></code>
+    <code><img height="40" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"></code>
 </div>
 
 <br/>
