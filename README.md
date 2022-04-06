@@ -14,6 +14,6 @@
     <code><img height="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bash.svg"></code>
     <code><img height="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg"></code>
     <code><img height="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg"></code>
-    <code><img height="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg"</code>
-    <code><img height="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/go.svg"</code>
+    <code><img height="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg"></code>
+    <code><img height="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/go.svg"></code>
 </div>
