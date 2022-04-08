@@ -14,6 +14,7 @@
     <code><img height="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bash.svg"></code>
     <code><img height="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg"></code>
     <code><img height="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg"></code>
+    <code><img height="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg"></code>
     <code><img height="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg"></code>
     <code><img height="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/go.svg"></code>
     <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"></code>
@@ -21,6 +22,7 @@
     <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg"></code>
     <code><img height="40" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"></code>
     <code><img height="40" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"></code>
+    
 </div>
 
 <br/>
