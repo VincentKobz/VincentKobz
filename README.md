@@ -3,7 +3,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/vincent-libeskind/)
 
 - 👨‍💻 All of my projects are available at [https://www.vincentlibeskind.com/](https://www.vincentlibeskind.com/)
-- ⚙️ Currently working on the [nand2tetris](https://www.nand2tetris.org/) project
+- ⚙️ Currently working on the [nand2tetris](https://www.nand2tetris.org/) project and on a 32 bits monolithic Linux kernel.
 - 💻 Study of embedded systems
 
     
