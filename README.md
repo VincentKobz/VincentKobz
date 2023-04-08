@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vincent, computer science student at EPITA.</h1>
+<h1 align="center">Hi 👋, I'm Vincent, computer science student specialize in embedded systems at EPITA.</h1>
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/vincent-libeskind/)
 
@@ -13,6 +13,7 @@
     <code><img height="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bash.svg"></code>
     <code><img height="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg"></code>
     <code><img height="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg"></code>
+    <code><img height="40" src="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/b4/8e/1f/b48e1f2c-cabf-9ace-2c03-71047e2df0fe/AppIcon-0-0-1x_U007emarketing-0-0-0-4-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg"></code>
     <code><img height="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg"></code>
     <code><img height="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg"></code>
     <code><img height="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/go.svg"></code>
