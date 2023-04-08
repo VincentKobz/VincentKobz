@@ -14,6 +14,7 @@
     <code><img height="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg"></code>
     <code><img height="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg"></code>
     <code><img height="40" src="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/b4/8e/1f/b48e1f2c-cabf-9ace-2c03-71047e2df0fe/AppIcon-0-0-1x_U007emarketing-0-0-0-4-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg"></code>
+    <code><img height="40" src="https://wiki.st.com/stm32mcu/nsfr_img_auth.php/0/04/Package_MCU_blue.png"></code>
     <code><img height="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg"></code>
     <code><img height="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg"></code>
     <code><img height="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/go.svg"></code>
