@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vincent, computer science student specialize in embedded systems at EPITA.</h1>
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/vincent-libeskind/)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=VincentKobz)
 
 - 👨‍💻 All of my projects are available at [https://www.vincentlibeskind.com/](https://www.vincentlibeskind.com/)
 - ⚙️ Currently working on the [nand2tetris](https://www.nand2tetris.org/) project and on a 32 bits monolithic Linux kernel.
