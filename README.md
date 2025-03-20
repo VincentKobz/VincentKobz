@@ -4,7 +4,7 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=VincentKobz)
 
 - 👨‍💻 All of my projects are available at [https://www.vincentlibeskind.com/](https://www.vincentlibeskind.com/)
-- ⚙️ Currently working on place-index project and on a diy weather-station.
+- ⚙️ Currently working on [place-index](https://github.com/VincentKobz/place-index) project and on a diy weather-station.
     
 <h3 align="left">Languages and Tools:</h3>
 
