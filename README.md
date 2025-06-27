@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vincent, software engineer at enioka Haute Couture, EPITA graduate.</h1>
+<h1 align="center">Hi 👋, I'm Vincent, software engineer at Stockly, EPITA graduate.</h1>
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/vincent-libeskind/)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=VincentKobz)
